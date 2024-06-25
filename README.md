@@ -10,4 +10,4 @@ Survived in Washington
 - Imported important details to the activities, drawables, strings and layouts
 - Changed the bugged URL to pasteBIN (Removed the reoccuring error)
 - Checked out the functions to see what needs to be done
-- Changed the float speed to work
+- Changed the toast speed to be LONG_TOAST
