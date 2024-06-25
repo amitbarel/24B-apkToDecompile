@@ -1,7 +1,7 @@
 # Survive Game
 
 ## Where I survived
-Survived in Washington
+![game](https://github.com/amitbarel/24B-apkToDecompile/assets/81353791/b263af6d-7b1e-45d7-96b2-730dc43eda10)
 
 ## Working Process
 - Opened a new android project
